@@ -1,0 +1,22 @@
+#logo {
+    margin: auto;
+    width: 50%;
+    text-align:center;
+}
+
+ul.top {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li {
+    float: left;
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
+ul.bottom {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
